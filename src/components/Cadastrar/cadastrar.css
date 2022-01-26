@@ -1,0 +1,32 @@
+.add{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.add-form{
+    display: flex;
+    margin: 3rem;
+    align-content: center;
+    background-color: rgba(27, 12, 85, 0.555);
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem;
+    align-items: center;
+}
+
+
+.add-form-group-input{
+    padding: .2rem;
+    width: 60%;
+    margin: .5rem;
+}
+
+.btn-enviar{
+    padding: .5rem;
+    background-color: cornflowerblue;
+    margin-top: .5rem;
+}

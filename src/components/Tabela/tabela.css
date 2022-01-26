@@ -1,0 +1,14 @@
+.btn-voltar{
+    padding: .5rem;
+    background-color: cornflowerblue;
+    margin-top: 1rem;
+}
+
+.ranking-pai{
+    background-color: rgba(27, 12, 85, 0.349);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
